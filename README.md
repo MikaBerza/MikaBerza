@@ -10,6 +10,6 @@
   Стек: HTML, CSS, Bootstrap, Figma, JavaScript;  
 - применяя Webpack5 обновляем проект 1_multicalculators_JavaScript до версии ./**1.1_multicalculators_JavaScript**  
   Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5;  
-- переписывание отдельных приложений проекта с JavaScript на React ./**1_multicalculators_React**    
+- переписывание приложений проекта с JavaScript на React ./**1_multicalculators_React**    
 - использование библиотеки React Router DOM ./**1_multicalculators_React_Router_Dom**    
-- переписывание отдельных приложений проекта с JavaScript на TypeScript ./**1_multicalculators_TypeScript**    
+- переписывание приложений проекта с JavaScript на TypeScript ./**1_multicalculators_TypeScript**    
