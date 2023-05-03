@@ -3,7 +3,7 @@
 
 ---
 
-### Название проекта - "Multicalculators"
+### проекта - "Multicalculators"
 
 #### :heavy_exclamation_mark:Этапы выполнения
 
