@@ -12,4 +12,10 @@
   Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5;  
 - переписывание приложений проекта с JavaScript на React ./**1_multicalculators_React**    
 - использование библиотеки React Router DOM ./**1_multicalculators_React_Router_Dom**    
-- переписывание приложений проекта с JavaScript на TypeScript ./**1_multicalculators_TypeScript**    
+- переписывание приложений проекта с JavaScript на TypeScript ./**1_multicalculators_TypeScript** 
+
+---
+
+
+> __Контакты__  
+Электронная почта:email:: mikberza@mail.ru 
