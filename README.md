@@ -5,14 +5,15 @@
 
 #### :heavy_exclamation_mark:Этапы выполнения проекта - "Multicalculators"
 - вёрстка макетов веб-страниц **./2_layouts**/  
-  Стек: HTML, CSS, Bootstrap, Figma;
-- создание проекта с приложениями ./**1_multicalculators_JavaScript**  
-  Стек: HTML, CSS, Bootstrap, Figma, JavaScript;  
-- применяя Webpack5 обновляем проект 1_multicalculators_JavaScript до версии ./**1.1_multicalculators_JavaScript**  
-  Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5;  
-- переписывание приложений проекта с JavaScript на React ./**1_multicalculators_React**    
-- использование библиотеки React Router DOM ./**1_multicalculators_React_Router_Dom**    
-- переписывание приложений проекта с JavaScript на TypeScript ./**1_multicalculators_TypeScript** 
+  _Стек: HTML, CSS, Bootstrap, Figma;_  
+- создание проекта с приложениями на JavaScript ./**1_multicalculators_JavaScript**  
+  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript;_  
+- обновление проекта 1_multicalculators_JavaScript с использованием Webpack5 до версии ./**1.1_multicalculators_JavaScript**  
+  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5;_  
+- создание проекта с приложениями на React ./**1_multicalculators_React**  
+- обновление проекта 1_multicalculators_React до версии ./**1.1_multicalculators_React**  
+  _Использование хуков: useState, useEffect, useContext, useCallback и библиотеки  React Router DOM_      
+- создание проекта с приложениями на TypeScript ./**1_multicalculators_TypeScript** 
 
 ---
 
