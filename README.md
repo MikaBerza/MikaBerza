@@ -9,7 +9,7 @@
 - создание проекта с приложениями на JavaScript ./**1_multicalculators_JavaScript**  
   _Стек: HTML, CSS, Bootstrap, Figma, JavaScript;_  
 - обновление проекта 1_multicalculators_JavaScript с использованием Webpack5 до версии ./**1.1_multicalculators_JavaScript**  
-  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5;_  
+  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5, Firebase (Realtime Database);_  
 - создание проекта с приложениями на React ./**1_multicalculators_React**  
 - обновление проекта 1_multicalculators_React до версии ./**1.1_multicalculators_React**  
   _Использование хуков: useState, useEffect, useContext, useCallback и библиотеки  React Router DOM_      
