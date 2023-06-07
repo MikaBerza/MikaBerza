@@ -3,7 +3,7 @@
 
 ---
 
-#### :heavy_exclamation_mark:Этапы выполнения проекта - "Multicalculators"
+#### :heavy_exclamation_mark:Проекты
 - вёрстка макетов веб-страниц **./2_layouts**/  
   _Стек: HTML, CSS, Bootstrap, Figma;_  
 - создание проекта с приложениями на JavaScript ./**1_multicalculators_JavaScript**  
