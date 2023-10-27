@@ -1,19 +1,14 @@
 ## :trophy:Профиль Codewars
-![Codewars](https://github.r2v.ch/codewars?user=MikaBerza&hide_clan=true&top_languages=true&stroke=%23b362ff)
+![Codewars](https://github.r2v.ch/codewars?user=MikaBerza&hide_clan=true&top_languages=true&stroke=%23b362ff)  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MikaBerza&theme=solarized_dark)
 
----
-
-#### :heavy_exclamation_mark:Проекты
-- вёрстка макетов веб-страниц **./2_layouts**/  
-  _Стек: HTML, CSS, Bootstrap, Figma;_  
-- создание проекта с приложениями на JavaScript ./**1_multicalculators_JavaScript**  
-  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript;_  
-- обновление проекта 1_multicalculators_JavaScript с использованием Webpack5 до версии ./**1.1_multicalculators_JavaScript**  
-  _Стек: HTML, CSS, Bootstrap, Figma, JavaScript, Webpack5, Firebase (Realtime Database);_  
-- создание проекта с приложениями на React ./**1_multicalculators_React**  
-- обновление проекта 1_multicalculators_React до версии ./**1.1_multicalculators_React**  
-  _Использование хуков: useState, useEffect, useContext, useCallback и библиотеки  React Router DOM_      
-- создание проекта с приложениями на TypeScript ./**1_multicalculators_TypeScript** 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Webpack5](https://img.shields.io/badge/webpack-%23593d88.svg?style=for-the-badge&logo=webpack&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux Toolkit](https://img.shields.io/badge/redux--toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
